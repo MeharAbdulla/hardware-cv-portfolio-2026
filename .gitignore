@@ -1,0 +1,53 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+secrets.h
+credentials.h
+wifi_config.h
+mqtt_config.h
+*.pem
+*credentials*.json
+*service*account*.json
+!*service*account*.example.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+runs/
+weights/*.pt
+!weights/.gitkeep
+
+# Node / misc
+node_modules/
+
+# PlatformIO / Arduino
+.pio/
+.vscode/.browse.c_cpp.db*
+build/
+*.bin
+*.elf
+*.map
+
+# Large local extracts (keep originals outside git)
+_tmp_extract/
+*.zip
+
+# OS / IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
