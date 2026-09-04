@@ -17,7 +17,7 @@ Hands-on **ESP32 / IoT / embedded** builds and **YOLOv8 computer-vision** demos 
 | [ip66-field-monitor-node](projects/ip66-field-monitor-node) | Rugged IP66 enclosure monitor with local LCD |
 | [rfid-biometric-attendance](projects/rfid-biometric-attendance) | RC522 RFID attendance kiosk with OLED prompts |
 | [adjustable-vision-capture-rig](projects/adjustable-vision-capture-rig) | Raspberry Pi + YOLOv8 crystal detection camera rig |
-| [smart-sleep-quality-monitor](projects/smart-sleep-quality-monitor) | Ambient sleep-quality tracker with OLED metrics + audio |
+| [wearable-sleep-quality-monitor](projects/wearable-sleep-quality-monitor) | Wearable-oriented sleep tracker with OLED metrics + audio |
 | [mechanical-2k23-desk-assistant](projects/mechanical-2k23-desk-assistant) | TFT desk assistant (time, climate, menus) |
 | [vortex-esp32-devboard-firmware](projects/vortex-esp32-devboard-firmware) | Bring-up firmware for a Vortex-class ESP32 board |
 
